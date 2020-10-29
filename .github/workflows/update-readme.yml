@@ -22,4 +22,6 @@ jobs:
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
+          message: ':zap: Updated README with the recent activity'
+          author_name: bhandarisaurav
           github_token: ${{ secrets.GITHUB_TOKEN }}
