@@ -29,12 +29,8 @@
 ### :zap: Recent Activity
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
-
-<!--GITHUB_REPOS:{"rows": 5}-->
 
 <!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
-
 
 ---
 
