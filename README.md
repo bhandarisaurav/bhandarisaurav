@@ -32,16 +32,11 @@
 
 ### :zap: Recent Activity
 
-- 🍴 Forked bhandarisaurav/codeSTACKr from codeSTACKr/codeSTACKr
 - ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-- ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-- ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-- 🍴 Forked bhandarisaurav/AndreiJirohHaliliDev2006 from AndreiJirohHaliliDev2006/AndreiJirohHaliliDev2006
 
 <!--START_SECTION:activity-->
 
-- ACTIVITY
-
+1. 🎉 Merged PR [#1](https://github.com/bhandarisaurav/bhandarisaurav/pull/1) in [bhandarisaurav/bhandarisaurav](https://github.com/bhandarisaurav/bhandarisaurav)
 <!--END_SECTION:activity-->
 
 ---
