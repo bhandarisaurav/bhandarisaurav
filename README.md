@@ -28,36 +28,17 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bhandarisaurav/bhandarisaurav/pull/1) in [bhandarisaurav/bhandarisaurav](https://github.com/bhandarisaurav/bhandarisaurav)
-2. 💪 Opened PR [#1](https://github.com/bhandarisaurav/bhandarisaurav/pull/1) in [bhandarisaurav/bhandarisaurav](https://github.com/bhandarisaurav/bhandarisaurav)
-<!--END_SECTION:activity-->
-
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
+* 🍴 Forked bhandarisaurav/gautamkrishnar from gautamkrishnar/gautamkrishnar
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-* 🍴 Forked bhandarisaurav/theboi from theboi/theboi
-⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-🍴 Forked bhandarisaurav/theboi from theboi/theboi
-
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 1 | [alishapathak/LostandFound](https://github.com/alishapathak/LostandFound) | null |
-| 📦 | 1 | [bhandarisaurav/Shopping_laravel](https://github.com/bhandarisaurav/Shopping_laravel) | A simple Shopping Application made in Laravel |
-| 📦 | 0 | [bhandarisaurav/advanced-java-pacticals](https://github.com/bhandarisaurav/advanced-java-pacticals) | null |
-| 📦 | 0 | [bhandarisaurav/angulartest](https://github.com/bhandarisaurav/angulartest) | null |
-| 📦 | 0 | [bhandarisaurav/AutomatedFormFiller](https://github.com/bhandarisaurav/AutomatedFormFiller) | A simple python application which can be used to fill the Feedback form of faculties given by Deerwalk Institute of Technology Automatically. |
 
 ⭐️ 1 📦 alishapathak/LostandFound
 ⭐️ 1 📦 bhandarisaurav/Shopping_laravel
 ⭐️ 0 📦 bhandarisaurav/advanced-java-pacticals
 ⭐️ 0 📦 bhandarisaurav/angulartest
 ⭐️ 0 📦 bhandarisaurav/AutomatedFormFiller
-
 
 ---
 
