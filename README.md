@@ -28,6 +28,9 @@
 
 ### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
