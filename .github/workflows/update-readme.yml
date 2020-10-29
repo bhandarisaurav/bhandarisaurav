@@ -17,6 +17,7 @@ jobs:
         uses: actions-js/profile-readme@master
         with:
           username: bhandarisaurav
+          template: ./TEMPLATE.md
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit & Push changes
         uses: actions-js/push@master
