@@ -30,8 +30,6 @@
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
-<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
-
 ---
 
 <details>
