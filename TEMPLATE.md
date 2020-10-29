@@ -38,6 +38,10 @@ Activity
 
 <!--END_SECTION:activity-->
 
+---
+
+### :sparkles: Stats
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
