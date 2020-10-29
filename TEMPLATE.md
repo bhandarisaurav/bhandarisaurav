@@ -1,6 +1,8 @@
 ### Hi there, I'm [ Saurav Bhandari][website] 👋
 
-[![Website](https://img.shields.io/website?label=bhandarisaurav.com.np&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bhandarisaurav.com.np)
+[![Website](https://img.shields.io/website?label=sauravbhandari.com.np&style=for-the-badge&url=https%3A%2F%2Fsauravbhandari.com.np)](https://sauravbhandari.com.np)
+[![Website](https://img.shields.io/website?label=bhandarisaurav.com.np&style=for-the-badge&url=https%3A%2F%2Fsauravbhandari.com.np)](https://bhandarisaurav.com.np)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sauravbhandari)
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/sauravbhandari?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%bhandarisaurav&screen_name=sauravbhandari) -->
@@ -31,28 +33,29 @@
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 <!--START_SECTION:activity-->
-TEST
+
+Activity
+
 <!--END_SECTION:activity-->
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Saurav Bhandari's GitHub Stats" src="https://github-readme-stats-bhandarisaurav.vercel.app/api?username=bhandarisaurav&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="Saurav Bhandari's GitHub Stats" style="width:100%" src="https://github-readme-stats-bhandarisaurav.vercel.app/api?username=bhandarisaurav&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Saurav Bhandari's Most Used Languages" src="https://github-readme-stats-bhandarisaurav.vercel.app/api/top-langs/?username=bhandarisaurav&layout=compact" />
+  <img align="left" alt="Saurav Bhandari's Most Used Languages" style="width:100%" src="https://github-readme-stats-bhandarisaurav.vercel.app/api/top-langs/?username=bhandarisaurav&layout=compact&langs_count=10" />
 
 </details>
 
 <details>
   <summary>:zap: Wakatime Week Stats</summary>
 
-  <img align="left" alt="Saurav Bhandari's Wakatime Week Stats" src="https://github-readme-stats-bhandarisaurav.vercel.app/api/wakatime?username=sauravbhandari" />
+  <img align="left" alt="Saurav Bhandari's Wakatime Week Stats" style="width:100%" src="https://github-readme-stats-bhandarisaurav.vercel.app/api/wakatime?username=sauravbhandari" />
 
 </details>
 
