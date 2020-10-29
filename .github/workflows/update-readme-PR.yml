@@ -16,4 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: bhandarisaurav
           COMMIT_MSG: ':sparkles: Update README with the recent Pull Requests and Issues'
