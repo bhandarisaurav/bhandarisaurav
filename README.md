@@ -28,8 +28,13 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
+<!--GITHUB_REPOS:{"rows": 5}-->
+
+<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
+
 
 ---
 
