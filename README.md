@@ -31,14 +31,8 @@
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-* 🍴 Forked bhandarisaurav/gautamkrishnar from gautamkrishnar/gautamkrishnar
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-
-⭐️ 1 📦 alishapathak/LostandFound
-⭐️ 1 📦 bhandarisaurav/Shopping_laravel
-⭐️ 0 📦 bhandarisaurav/advanced-java-pacticals
-⭐️ 0 📦 bhandarisaurav/angulartest
-⭐️ 0 📦 bhandarisaurav/AutomatedFormFiller
+* 🍴 Forked bhandarisaurav/gautamkrishnar from gautamkrishnar/gautamkrishnar
 
 ---
 
