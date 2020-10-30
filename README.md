@@ -30,36 +30,40 @@
 
 ### :zap: Recent Activity
 
-- ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
+* ⬆️ Pushed 1 commit to bhandarisaurav/intro-vue
+* ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
+* ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
+* ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
+* ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/bhandarisaurav/bhandarisaurav/pull/1) in [bhandarisaurav/bhandarisaurav](https://github.com/bhandarisaurav/bhandarisaurav)
-2. 💪 Opened PR [#1](https://github.com/bhandarisaurav/bhandarisaurav/pull/1) in [bhandarisaurav/bhandarisaurav](https://github.com/bhandarisaurav/bhandarisaurav)
+Activity
+
 <!--END_SECTION:activity-->
 
-3. 🎉 Merged PR [#1](https://github.com/bhandarisaurav/bhandarisaurav/pull/1) in [bhandarisaurav/bhandarisaurav](https://github.com/bhandarisaurav/bhandarisaurav)
+---
 
-## <!--END_SECTION:activity-->
+### :sparkles: Stats
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Saurav Bhandari's GitHub Stats" src="https://github-readme-stats-bhandarisaurav.vercel.app/api?username=bhandarisaurav&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="Saurav Bhandari's GitHub Stats" style="width:100%" src="https://github-readme-stats-bhandarisaurav.vercel.app/api?username=bhandarisaurav&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Saurav Bhandari's Most Used Languages" src="https://github-readme-stats-bhandarisaurav.vercel.app/api/top-langs/?username=bhandarisaurav&layout=compact" />
+  <img align="left" alt="Saurav Bhandari's Most Used Languages" style="width:100%" src="https://github-readme-stats-bhandarisaurav.vercel.app/api/top-langs/?username=bhandarisaurav&layout=compact&langs_count=10" />
 
 </details>
 
 <details>
   <summary>:zap: Wakatime Week Stats</summary>
 
-  <img align="left" alt="Saurav Bhandari's Wakatime Week Stats" src="https://github-readme-stats-bhandarisaurav.vercel.app/api/wakatime?username=sauravbhandari" />
+  <img align="left" alt="Saurav Bhandari's Wakatime Week Stats" style="width:100%" src="https://github-readme-stats-bhandarisaurav.vercel.app/api/wakatime?username=sauravbhandari" />
 
 </details>
 
