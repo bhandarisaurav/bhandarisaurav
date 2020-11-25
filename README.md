@@ -31,10 +31,10 @@
 ### :zap: Recent Activity
 
 * ⬆️ Pushed 1 commit to bhandarisaurav/wildfire-tracker-nasa
+* ⬆️ Pushed 1 commit to bhandarisaurav/wildfire-tracker-nasa
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 * ⬆️ Pushed 2 commits to bhandarisaurav/bhandarisaurav
 * ⬆️ Pushed 1 commit to bhandarisaurav/intro-vue
-* ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
 
 <!--START_SECTION:activity-->
 
