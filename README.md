@@ -30,11 +30,11 @@
 
 ### :zap: Recent Activity
 
+* ⬆️ Pushed 2 commits to bhandarisaurav/wildfire-tracker-nasa
 * ⬆️ Pushed 1 commit to bhandarisaurav/wildfire-tracker-nasa
 * ⬆️ Pushed 1 commit to bhandarisaurav/wildfire-tracker-nasa
 * ⬆️ Pushed 1 commit to bhandarisaurav/wildfire-tracker-nasa
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav
-* ⬆️ Pushed 2 commits to bhandarisaurav/bhandarisaurav
 
 <!--START_SECTION:activity-->
 
