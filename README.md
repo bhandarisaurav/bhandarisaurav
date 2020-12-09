@@ -31,10 +31,10 @@
 ### :zap: Recent Activity
 
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav.github.io
+* ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav.github.io
 * 📦 Released "" in bhandarisaurav/wildfire-tracker-nasa
 * ⬆️ Pushed 1 commit to bhandarisaurav/wildfire-tracker-nasa
 * 🍴 Forked bhandarisaurav/thmsgbrt from thmsgbrt/thmsgbrt
-* ⬆️ Pushed 1 commit to bhandarisaurav/wildfire-tracker-nasa
 
 <!--START_SECTION:activity-->
 
