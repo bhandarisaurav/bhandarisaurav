@@ -30,15 +30,15 @@
 
 ### :zap: Recent Activity
 
-* ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav.github.io
-* ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav.github.io
+* ⬆️ Pushed 1 commit to bhandarisaurav/todo-app
+* ⬆️ Pushed 1 commit to bhandarisaurav/todo-app
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav.github.io
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav.github.io
 * ⬆️ Pushed 1 commit to bhandarisaurav/bhandarisaurav.github.io
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/bhandarisaurav/bhandarisaurav/pull/1) in [bhandarisaurav/bhandarisaurav](https://github.com/bhandarisaurav/bhandarisaurav)
+Activity
 
 <!--END_SECTION:activity-->
 
