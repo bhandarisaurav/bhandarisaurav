@@ -1,7 +1,7 @@
 ### Hi there, I'm [ Saurav Bhandari][website] 👋
 
 [![Website](https://img.shields.io/website?label=sauravbhandari.com.np&style=for-the-badge&url=https%3A%2F%2Fsauravbhandari.com.np)](https://sauravbhandari.com.np)
-[![Website](https://img.shields.io/website?label=bhandarisaurav.com.np&style=for-the-badge&url=https%3A%2F%2Fsauravbhandari.com.np)](https://bhandarisaurav.com.np)
+[![Website1](https://img.shields.io/website?label=bhandarisaurav.com.np&style=for-the-badge&url=https%3A%2F%2Fsauravbhandari.com.np)](https://bhandarisaurav.com.np)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sauravbhandari)
 
