@@ -67,7 +67,7 @@ Activity
 
 </details>
 
-[website]: https://bhandarisaurav.com.np
+[website]: https://sauravbhandari.com.np
 [instagram]: https://instagram.com/_sauravbhandari_
 [twitter]: https://twitter.com/sauravbhandari_
 [linkedin]: https://www.linkedin.com/in/saurav-bhandari/
