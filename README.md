@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-now-playing-sauravbhandari.vercel.app/api/spotify)](https://open.spotify.com/user/wuz6sf7nizpnv54oo3as7jafv)
+[![Spotify](https://spotify-now-playing-sauravbhandari.vercel.app/api/spotify)](https://open.spotify.com/user/31mkijsgiy7dh76y56hrtko7mzkq)
 
 ### Connect with me:
 
